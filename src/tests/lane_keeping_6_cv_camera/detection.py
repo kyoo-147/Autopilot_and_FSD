@@ -5,7 +5,6 @@ import cv2 as cv
 import os
 from time import time, sleep
 
-from scipy.__config__ import show
 
 from helper_functions import *
 

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from this import d
+
 import cv2 as cv
 import rospy
 import numpy as np
