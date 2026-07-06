@@ -1,5 +1,5 @@
 # Prepare Connecting and Data Transfer for Autopilot and Full Self-Driving Capability
-
+* Đã opensource và hiện không còn sử dụng cho mục đích thương mại, được xem như một tài liệu học thuật 
 Dự án bao gồm gói phần mềm Brain và nhưng Data có trong nó, một điểm khởi đầu tốt để bắt đầu phát triển ô tô của bạn với ROS.
 
 Nếu ROS đang chạy trên ô tô, bạn cũng có thể tương tác từ ô tô với trình mô phỏng chính thức bằng cách làm theo hướng dẫn Trình mô phỏng để xuất bản/đăng ký các chủ đề của nó (Máy ảnh, chuyển động, vị trí, v.v.)
