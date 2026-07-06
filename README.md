@@ -5,6 +5,12 @@
 
 ---
 
+### 🎥 Demo Videos
+*   [Demo Video 1 (Google Drive)](https://drive.google.com/file/d/1PCoAxyt627ZWWXG4Xr0f9vPQuXy9llBt/view?usp=sharing)
+*   [Demo Video 2 (Google Drive)](https://drive.google.com/file/d/1GvKed1f2F6sQnUh5rFhaf8miBfDAbKWN/view?usp=sharing)
+
+---
+
 *For the Vietnamese version of this document, please see [README_VN.md](README_VN.md).*
 
 ---
