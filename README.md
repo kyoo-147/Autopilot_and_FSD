@@ -6,10 +6,11 @@
 ---
 
 ### 🎥 Demo Videos
+https://github.com/user-attachments/assets/5e97863c-4eaa-4ee6-837f-ccc63fc53065
+
 *   [Demo Video 1 (Google Drive)](https://drive.google.com/file/d/1xopJRtY4oJ2lKirMBOqHJgrE3sD4T-gK/view?usp=drive_link)
 
 *   [Demo Video 2 (Google Drive)](https://drive.google.com/file/d/1GvKed1f2F6sQnUh5rFhaf8miBfDAbKWN/view?usp=sharing)
-https://github.com/user-attachments/assets/5e97863c-4eaa-4ee6-837f-ccc63fc53065
 
 ---
 
