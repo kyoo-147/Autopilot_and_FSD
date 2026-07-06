@@ -1,6 +1,8 @@
 # Autopilot & Full Self-Driving (FSD) cho xe tự hành mô hình
 *Dự án điều khiển xe tự hành mô hình với khả năng tự lái và giữ làn dựa trên ROS và Deep Learning*
 
+**Trưởng nhóm:** Bùi Minh Cường (Michael)
+
 ---
 
 *Đọc bản tiếng Anh của tài liệu này tại [README.md](README.md).*

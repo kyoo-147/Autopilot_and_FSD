@@ -1,6 +1,8 @@
 # Autopilot & Full Self-Driving (FSD) for Scale-Model Autonomous Car
 *Autonomous scale-model vehicle control stack with lane-keeping based on ROS and Deep Learning*
 
+**Team Leader:** Bui Minh Cuong (Michael)
+
 ---
 
 *For the Vietnamese version of this document, please see [README_VN.md](README_VN.md).*
